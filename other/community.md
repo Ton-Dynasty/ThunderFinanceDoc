@@ -10,7 +10,7 @@ description: Useful links about Thunder Finanace ecosystem.
 
 **Mini App**
 
-* .....
+* Testnet version (apply testnet token in DC): [t.me/ThunderFinanceTonBot/app](https://t.me/ThunderFinanceTonBot/app)
 
 **Socials**
 

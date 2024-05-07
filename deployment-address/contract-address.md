@@ -12,6 +12,6 @@ description: Thunder Finance Testnet Deployment Address
 
 ## Mainnet
 
-| Contract | Addresss |
-| -------- | -------- |
-| Kitchen  |          |
+| Contract | Addresss                                          |
+| -------- | ------------------------------------------------- |
+| Kitchen  | EQAk0mzQiZ0QlH\_RstL9YjnkbKPGqqCty20SqPmcFNacGcUD |

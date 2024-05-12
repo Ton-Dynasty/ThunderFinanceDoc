@@ -8,7 +8,7 @@ description: Thunder Finance Testnet Deployment Address
 
 | Contract | Address                                          |
 | -------- | ------------------------------------------------ |
-| Kitchen  | kQAW88KwLckSqZLbFklg0VnZxt7TZIqNFlSjFAAf8a14fxv3 |
+| Kitchen  | EQBRIU32-3eAk20Jt8iwG-sTJjDcZVxlL8jh7Zwokr9XeqfF |
 
 ## Mainnet
 

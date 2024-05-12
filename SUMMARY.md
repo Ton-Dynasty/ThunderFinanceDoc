@@ -11,6 +11,10 @@
 * [📨 Message Flows](protocol-overview/message-flows.md)
 * [🍯 Reward Formula](protocol-overview/reward-formula.md)
 
+## Ecosystem
+
+* [📜 Lite paper](ecosystem/lite-paper.md)
+
 ## Deployment Address
 
 * [💎 Contract Address](deployment-address/contract-address.md)

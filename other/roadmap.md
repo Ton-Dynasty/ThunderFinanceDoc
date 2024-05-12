@@ -9,11 +9,18 @@
 
 ## **Phase 2 - Q3 2024**
 
-* Incorporate compound interest strategies.
-* Enhance portfolio optimization tools.
+* Social event promotion
+* Token launching - T token
+* Thunder Deposit V2 - Provide liquidity with only single currency&#x20;
+* Build liquidity pool on DEXs
 
 ## **Phase 3 - Q4 2024**
 
-* Integration of the ERC 4626 standard.
-* Introduction of automated passive investment services
+* Thunder swap - Use best exchange rate to swap on TON blockchain
+* Controllable platform parameters
+  * Pool Creation Fee
+  * Reward Service Fee
+  * Frequency to buy back token from market and burn
+  * Commission rate of token holders
+* Thunder DAO - Stake T token to get the governance token
 

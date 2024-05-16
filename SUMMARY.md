@@ -21,6 +21,7 @@
 
 ## Other
 
+* [🙌 Comparison](other/comparison.md)
 * [🛣️ Roadmap](other/roadmap.md)
 * [🥇 About Us](other/about-us.md)
 * [🧑‍🤝‍🧑 Community](other/community.md)
